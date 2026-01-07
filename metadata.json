@@ -1,0 +1,5 @@
+{
+  "name": "Quadrant Priority Planner",
+  "description": "A sophisticated task management and calendar application based on the Eisenhower Matrix, featuring weighted scoring, tie-breaking logic, and an optimized scheduling engine for better quality of life.",
+  "requestFramePermissions": []
+}
